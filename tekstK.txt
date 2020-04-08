@@ -1,2 +1,3 @@
 moj tekst
 druga linia tekstu
+ostatteczna linia tekstu
